@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760959647657",
+    "project_id": "myproject-50cdc",
+    "storage_bucket": "myproject-50cdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760959647657:android:29b74c643540952098ceb8",
+        "android_client_info": {
+          "package_name": "com.example.chatpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZAeqgOMNV6b7a08PqlsGrvnEgXAanCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760959647657:android:36eb204f198181c698ceb8",
+        "android_client_info": {
+          "package_name": "com.pratik.chatgpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZAeqgOMNV6b7a08PqlsGrvnEgXAanCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
